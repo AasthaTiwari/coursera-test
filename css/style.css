@@ -8,7 +8,7 @@ body{
 h1{
 	text-align:center;
 	color: black;
-	font-size:200%;
+	font-size: 200%px;
 }
 section{
 	background-color: grey;
@@ -38,12 +38,12 @@ section.sushi>h2{
 }
 section>p{
 	padding:50px 15px 15px 15px;
-	font-size:100%;
 	width: 90%;
 	margin-top: 10px;
 	margin-bottom: 10px;
 	margin-left: auto;
 	margin-right: auto;
+	font-size: 100%
 }
 
 .row{
@@ -72,4 +72,5 @@ section>p{
 		width:100%;
 	}
 }
+
 
