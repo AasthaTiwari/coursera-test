@@ -8,6 +8,7 @@ body{
 h1{
 	text-align:center;
 	color: black;
+	font-size:30px;
 }
 section{
 	background-color: grey;
@@ -21,7 +22,7 @@ section>h2{
 	margin: 0;
 	text-align: center;
 	font-style:Times;
-	font-size: 24px;
+	font-size: 20px;
 	height: 45px;
 	font-weight: bold;
 	padding-top: 10px;
