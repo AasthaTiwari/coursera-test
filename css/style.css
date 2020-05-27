@@ -8,7 +8,7 @@ body{
 h1{
 	text-align:center;
 	color: black;
-	font-size:30px;
+	font-size:200%;
 }
 section{
 	background-color: grey;
@@ -22,10 +22,10 @@ section>h2{
 	margin: 0;
 	text-align: center;
 	font-style:Times;
-	font-size: 20px;
+	font-size: 125%px;
 	height: 45px;
 	font-weight: bold;
-	padding-top: 10px;
+	padding: 10px;
 }
 section.chicken>h2{
 	background-color: yellow;
@@ -37,7 +37,8 @@ section.sushi>h2{
 	background-color: orange;
 }
 section>p{
-	padding:40px 15px 15px 15px;
+	padding:50px 15px 15px 15px;
+	font-size:100%;
 	width: 90%;
 	margin-top: 10px;
 	margin-bottom: 10px;
